@@ -5,6 +5,11 @@ syntax on
 set autoindent
 set smartindent
 set tabstop=4
+set expandtab
+
+set list
+set listchars=tab:--
+
 set shiftwidth=4
 set showmatch
 set guioptions-=T
